@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67265ef3ed238719e95dd788"
+  },
+  "user_id": 1,
+  "problems_solved": 52
+},
+{
+  "_id": {
+    "$oid": "67265ef3ed238719e95dd789"
+  },
+  "user_id": 2,
+  "problems_solved": 51
+},
+{
+  "_id": {
+    "$oid": "67265ef3ed238719e95dd78a"
+  },
+  "user_id": 3,
+  "problems_solved": 50
+},
+{
+  "_id": {
+    "$oid": "67265ef3ed238719e95dd78b"
+  },
+  "user_id": 4,
+  "problems_solved": 55
+}]

@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "672660b4ed238719e95dd794"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 1,
+  "submission_date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "status": "submitted"
+},
+{
+  "_id": {
+    "$oid": "672660b4ed238719e95dd795"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 2,
+  "submission_date": null,
+  "status": "not submitted"
+},
+{
+  "_id": {
+    "$oid": "672660b4ed238719e95dd796"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 3,
+  "submission_date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "status": "submitted"
+},
+{
+  "_id": {
+    "$oid": "672660b4ed238719e95dd797"
+  },
+  "task_id": 4,
+  "topic_id": 4,
+  "user_id": 4,
+  "submission_date": null,
+  "status": "not submitted"
+}]

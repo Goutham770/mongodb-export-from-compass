@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67265e3ced238719e95dd784"
+  },
+  "user_id": 1,
+  "name": "Goutham s",
+  "email": "goutham@gofimilar.com"
+},
+{
+  "_id": {
+    "$oid": "67265e3ced238719e95dd785"
+  },
+  "user_id": 2,
+  "name": "Logesh k",
+  "email": "logesh@hact.com"
+},
+{
+  "_id": {
+    "$oid": "67265e3ced238719e95dd786"
+  },
+  "user_id": 3,
+  "name": "Daniel d",
+  "email": "daniel@amudhanai.com"
+},
+{
+  "_id": {
+    "$oid": "67265e3ced238719e95dd787"
+  },
+  "user_id": 4,
+  "name": "Dharshan k",
+  "email": "dharshan@yahoo.com"
+}]

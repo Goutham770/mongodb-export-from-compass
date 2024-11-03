@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "672661feed238719e95dd79c"
+  },
+  "mentor_id": 1,
+  "name": "Pugazharasan C",
+  "mentees_count": 20
+},
+{
+  "_id": {
+    "$oid": "672661feed238719e95dd79d"
+  },
+  "mentor_id": 2,
+  "name": "Vishnu",
+  "mentees_count": 15
+}]

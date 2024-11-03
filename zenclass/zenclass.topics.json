@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6726603eed238719e95dd790"
+  },
+  "topic_id": 1,
+  "name": "Introduction to MongoDB",
+  "date_taught": {
+    "$date": "2020-10-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6726603eed238719e95dd791"
+  },
+  "topic_id": 2,
+  "name": "Advanced MongoDB",
+  "date_taught": {
+    "$date": "2020-10-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6726603eed238719e95dd792"
+  },
+  "topic_id": 3,
+  "name": "Introduction to JavaScript",
+  "date_taught": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6726603eed238719e95dd793"
+  },
+  "topic_id": 4,
+  "name": "Advanced JavaScript",
+  "date_taught": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  }
+}]
